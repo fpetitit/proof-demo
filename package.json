@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "proof": "node node_modules/proof.io/proof.js"
+  },
+  "devDependencies": {
+    "proof.io": "0.0.3"
+  }
+}
